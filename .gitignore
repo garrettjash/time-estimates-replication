@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 .cache/
+additional_robustness_checks/tables/
+additional_robustness_checks/figures/
